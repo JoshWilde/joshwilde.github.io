@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics & Smart Systems, Keele University, 2017
+* M.Sc. in Space Exploration Systems, Leicester University, 2018
+* Ph.D in Astronomy, The Open University, 2023 (expected)
 
 Work experience
 ======
