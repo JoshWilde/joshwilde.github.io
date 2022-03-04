@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan - Apr 2022 : Data Scientist
+  * Journal of Open Source Software
+  * Duties included: Creating an automated process to pair reviewers to appropriate papers using NLP techniques
+
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,7 +29,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Python
+* Machine Learning (CNNs)
+* Blender
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
