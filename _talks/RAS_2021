@@ -1,0 +1,18 @@
+---
+title: "Do Neural Networks Dream of Gravitational Lenses: Using CNN to Identify Gravitational Lenses & How They Do It"
+collection: talks
+type: "Talk"
+permalink: /talks/2012-03-01-talk-1
+venue: "Machine Learning and Artificial Intelligence applied to astronomy 2"
+date: 2021-05-14
+location: "Royal Astronomical Society, London"
+---
+
+In preparation for future large surveys such as LSST and Euclid. These expect to find more than
+10^5 gravitational lenses, I am interested in making sure the novel systems are discovered as
+these offer greater constraints on dark matter. I have been developing a CNN model to identify
+gravitational lenses from simulated Euclid images. This CNN model performs well with an F1
+score of 0.98, but why? I have applied several approaches including deep dream, occlusion
+maps, and class generated images to understand the aspects of the image which influences the
+model‚Äôs classification. Currently I am creating images of compound lenses to understand how
+well my model performs on data of rare lens configurations.
