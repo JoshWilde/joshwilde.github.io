@@ -10,10 +10,14 @@ redirect_from:
 
 Research Interests
 ======
+
 Gravitational Lenses
 ------
+Gravitational Lenses
+
 Compound Gravitational Lenses
 ------
+Compound Gravitational Lenses
 
 
 Machine Learning 
