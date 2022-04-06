@@ -21,22 +21,13 @@ Work experience
   * Journal of Open Source Software
   * Duties included: Creating an automated process to pair reviewers to appropriate papers using NLP techniques
 
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
 * Python
 * Machine Learning (CNNs)
 * Blender
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
