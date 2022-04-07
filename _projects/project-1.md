@@ -1,5 +1,5 @@
 ---
-title: "Spark Rocket Design"
+title: "SPARK Rocket 2017"
 excerpt: "Short description of portfolio item number 1<br/><img src='https://live.staticflickr.com/4333/36959410282_8c16fee605_h.jpg'>"
 collection: projects
 ---
