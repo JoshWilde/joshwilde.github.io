@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Under Development"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Research Interests
+
+
 ======
 
-Gravitational Lenses
-------
-Gravitational Lenses
+I am a final year PhD student researching Gravitational Lensing and Machine learning at The Open University. My research uses machine learning to identify gravitational lenses and investigating what features in the image cause CNNs to identify gravitational lenses.
 
-Compound Gravitational Lenses
-------
-Compound Gravitational Lenses
+I studied my MSc in Space Exploration Systems in Leicester University. 
+
+I have a BSc in Physics & Smart Systems from Keele University. 
+
+In my free time I enjoy creating 3D models in Blender. Examples of my work can be seen here.  
 
 
-Machine Learning 
-------
-CNNs
-
-NLP
-
-Auto-encoders
-
-Interpretable Machine Learning
-------
-
-Occlusion Maps
-
-Deep Dream
-
-Grad-CAM
-
-Other Interests
-======
-
-Animation
-------
-
-Water Rockets
-------
 
 <!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
